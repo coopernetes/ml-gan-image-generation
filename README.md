@@ -7,7 +7,7 @@ WTF am I trying to do?
 * tune it to produce something more "real" (I have no idea what this will produce as this is a learning exercise for me)
 
 ## Dataset ideas
-* Signs based on Canada or Ontario road signs ([Wikimedia Commons]((https://commons.wikimedia.org/wiki/Category:SVG_road_signs_in_Canada)))
+* Signs based on Canada or Ontario road signs ([Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:SVG_road_signs_in_Canada))
 * Olympic games pictograms (what imaginative games can an AI come up with?) ([Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Olympic_pictograms))
 * AIGA images ([Wikimedia Commons](https://commons.wikimedia.org/wiki/AIGA_Images), [AIGA source](https://www.aiga.org/resources/symbol-signs))
 
