@@ -10,7 +10,7 @@ WTF am I trying to do?
 - [ ] Create the initial dataset ([Wikimedia Commons seems like a good place to start](https://commons.wikimedia.org/wiki/Category:SVG_road_signs_in_Canada))
 - [ ] Normalize the data (resize smaller images to fit within the largest "canvas" size ie. expand the dimensions to match the largest image). [scikit](https://scikit-image.org/)
 - [ ] Convert the raw image data into numpy arrays. [numpy basics](https://numpy.org/doc/stable/user/basics.creation.html)
-- [ ] Generate an image from a GAN. [Tensorflow DCGAN tutorial](https://www.tensorflow.org/tutorials/generative/dcgan
+- [ ] Generate an image from a GAN. [Tensorflow DCGAN tutorial](https://www.tensorflow.org/tutorials/generative/dcgan)
 
 ## Misc
 * Host the dataset somewhere? Cloud storage, Dropbox, Drive, etc? Really, anywhere that is accessible via a notebook
