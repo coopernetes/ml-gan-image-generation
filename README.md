@@ -11,4 +11,10 @@ WTF am I trying to do?
 - [ ] Normalize the data (resize smaller images to fit within the largest "canvas" size ie. expand the dimensions to match the largest image). [scikit](https://scikit-image.org/)
 - [ ] Convert the raw image data into numpy arrays. [numpy basics](https://numpy.org/doc/stable/user/basics.creation.html)
 - [ ] Generate an image from a GAN. [Tensorflow DCGAN tutorial](https://www.tensorflow.org/tutorials/generative/dcgan
-)
+
+## Misc
+* Host the dataset somewhere? Cloud storage, Dropbox, Drive, etc? Really, anywhere that is accessible via a notebook
+* Run a notebook somewhere? Some options:
+  - [Google Colab](https://colab.research.google.com)
+  - [Kaggle](https://www.kaggle.com/code)
+
